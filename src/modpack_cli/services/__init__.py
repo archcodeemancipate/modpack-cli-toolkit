@@ -1,0 +1,1 @@
+"""Service layer: staging, signing, archive reading, logging."""
