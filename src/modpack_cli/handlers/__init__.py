@@ -1,0 +1,1 @@
+"""Feature handlers — thin CLI-facing wrappers over the core engine."""
