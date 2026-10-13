@@ -1,0 +1,1 @@
+"""Core engine: manifest parsing, hashing, packing, verification."""
