@@ -1,0 +1,1 @@
+"""Config layer: user config + default manifest template."""
